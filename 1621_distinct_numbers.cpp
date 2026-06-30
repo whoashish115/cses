@@ -4,7 +4,7 @@ Problem  : Distinct Numbers
 URL      : https://cses.fi/problemset/task/1621
 Code     : https://github.com/whoashish115/cses
 Author   : Ashish Kumar
-Language : C++20
+Language : C++23
 ========================================
 */
 
