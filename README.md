@@ -1,1 +1,2 @@
-# cses
+# CSES
+solving cses problems while learning, practicing, and improving my algorithmic thinking, data structures, algorithms, time complexity analysis, optimization techniques, and competitive programming skills through consistent problem solving.
