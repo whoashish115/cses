@@ -33,7 +33,7 @@ void solve() {
   vector<vector<int>> adj(n + 1);
   vector<int> level(n + 1, 0);
 
-  for (int i = 2; i <= n; i++) {
+  for (int i = 1; i <= n; i++) {
     cin >> dp[i][0];
     adj[dp[i][0]].push_back(i);
   }
